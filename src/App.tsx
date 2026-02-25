@@ -925,7 +925,7 @@ function App() {
               <div className="flex gap-4 pt-4">
                 <a
                   href="https://www.linkedin.com/in/mdminulalam/"
-                  className="w-12 h-12 bg-blue-600 text-white rounded-lg flex items-center justify-center hover:bg-blue-700 transition-colors duration-200"
+                  className="w-12 h-12 bg-[#0077B5] rounded-lg flex items-center justify-center hover:scale-110 transition-transform duration-200"
                 >
                   <LinkedIn size={20} />
                 </a>
@@ -944,7 +944,7 @@ function App() {
                 </a>
                 <a
                   href="https://www.researchgate.net/profile/Md-Minul-Alam?ev=hdr_xprf"
-                  className="w-12 h-12 bg-green-600 text-white rounded-lg flex items-center justify-center hover:bg-green-700 transition-colors duration-200"
+                  className="w-12 h-12 bg-[#00D0B7] rounded-lg flex items-center justify-center hover:scale-110 transition-transform duration-200"
                   title="ResearchGate"
                 >
                   <ResearchGateIcon size={20} />
@@ -1108,22 +1108,22 @@ function App() {
               Building the future, one line of code at a time.
             </p>*/}
             <div className="flex justify-center gap-6 mb-8">
-              <a href="#" className="text-gray-400 dark:text-gray-500 hover:text-white transition-colors duration-200">
+              <a href="https://www.linkedin.com/in/mdminulalam/" className="text-gray-400 dark:text-gray-500 hover:text-white transition-colors duration-200">
                 <LinkedIn size={24} />
               </a>
               <a href="#" className="text-gray-400 dark:text-gray-500 hover:text-white transition-colors duration-200">
                 <Github size={24} />
               </a>
-              <a href="#" className="text-gray-400 dark:text-gray-500 hover:text-white transition-colors duration-200" title="Google Scholar">
+              <a href="https://scholar.google.com/citations?user=Kbt7bTYAAAAJ&hl=en" className="text-gray-400 dark:text-gray-500 hover:text-white transition-colors duration-200" title="Google Scholar">
                 <GoogleScholarIcon size={24} />
               </a>
-              <a href="#" className="text-gray-400 dark:text-gray-500 hover:text-white transition-colors duration-200" title="ResearchGate">
+              <a href="https://www.researchgate.net/profile/Md-Minul-Alam?ev=hdr_xprf" className="text-gray-400 dark:text-gray-500 hover:text-white transition-colors duration-200" title="ResearchGate">
                 <ResearchGateIcon size={24} />
               </a>
             </div>
             <div className="border-t border-gray-800 dark:border-gray-700 pt-8">
               <p className="text-gray-400 dark:text-gray-500 text-sm">
-                © 2025 Md Minul Alam. All rights reserved.
+                © 2026 Md Minul Alam. All rights reserved.
               </p>
             </div>
           </div>
