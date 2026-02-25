@@ -904,10 +904,10 @@ function App() {
                   <div className="w-12 h-12 bg-blue-100 dark:bg-blue-900 rounded-lg flex items-center justify-center">
                     <Phone className="text-blue-600 dark:text-blue-400" size={20} />
                   </div>
-                  <div>
-                    <p className="font-medium text-white-900">Phone</p>
-                    <p className="text-blue-100">+1 (702) -</p>
-                  </div>
+                  {/*<div>*/}
+                    {/*<p className="font-medium text-white-900">Phone</p>*/}
+                    {/*<p className="text-blue-100">+1 (702) -</p>*/}
+                  {/*</div>*/}
                 </div>
 
                 <div className="flex items-center space-x-4 hover:bg-white/10 p-1 rounded-lg transition-colors duration-200">
