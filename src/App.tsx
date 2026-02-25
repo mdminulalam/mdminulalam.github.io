@@ -924,7 +924,7 @@ function App() {
 
               <div className="flex gap-4 pt-4">
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/mdminulalam/"
                   className="w-12 h-12 bg-blue-600 text-white rounded-lg flex items-center justify-center hover:bg-blue-700 transition-colors duration-200"
                 >
                   <LinkedIn size={20} />
@@ -936,14 +936,14 @@ function App() {
                   <Github size={20} />
                 </a>
                 <a
-                  href="#"
+                  href="https://scholar.google.com/citations?user=Kbt7bTYAAAAJ&hl=en"
                   className="w-12 h-12 bg-blue-500 text-white rounded-lg flex items-center justify-center hover:bg-blue-600 transition-colors duration-200"
                   title="Google Scholar"
                 >
                   <GoogleScholarIcon size={20} />
                 </a>
                 <a
-                  href="#"
+                  href="https://www.researchgate.net/profile/Md-Minul-Alam?ev=hdr_xprf"
                   className="w-12 h-12 bg-green-600 text-white rounded-lg flex items-center justify-center hover:bg-green-700 transition-colors duration-200"
                   title="ResearchGate"
                 >
