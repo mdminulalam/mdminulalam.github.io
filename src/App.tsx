@@ -396,7 +396,7 @@ function App() {
                   <span className="text-blue-600 dark:text-blue-400">Md Minul Alam</span>
                 </h1>
                 <p className="text-xl sm:text-xl text-gray-600 dark:text-gray-300 font-medium">
-                  PhD Candidate and Graduate Teaching Assistant
+                  PhD Candidate and Graduate Assistant
                 </p>
                 <p className="text-lg text-gray-600 dark:text-gray-300 max-w-lg">
                  <p> Welcome to my personal website!</p> 
