@@ -925,7 +925,7 @@ function App() {
               <div className="flex gap-4 pt-4">
                 <a
                   href="https://www.linkedin.com/in/mdminulalam/"
-                  className="w-12 h-12 bg-[#0077B5] rounded-lg flex items-center justify-center hover:scale-110 transition-transform duration-200"
+                  className="w-12 h-12 bg-[#0077B5] text-white rounded-lg flex items-center justify-center hover:bg-[#0077B5] transition-transform duration-200"
                 >
                   <LinkedIn size={20} />
                 </a>
@@ -944,7 +944,7 @@ function App() {
                 </a>
                 <a
                   href="https://www.researchgate.net/profile/Md-Minul-Alam?ev=hdr_xprf"
-                  className="w-12 h-12 bg-[#00D0B7] rounded-lg flex items-center justify-center hover:scale-110 transition-transform duration-200"
+                  className="w-12 h-12 bg-[#00D0B7] rounded-lg flex items-center justify-center hover:bg-[#00D0B7] transition-transform duration-200"
                   title="ResearchGate"
                 >
                   <ResearchGateIcon size={20} />
