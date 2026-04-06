@@ -440,7 +440,7 @@ function App() {
             <div className="relative">
               <div className="relative z-10">
                 <img
-                  src="/1678379269058.jpeg"
+                  src="/Me.png"
                   alt="Md Minul Alam"
                   className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
                 />
